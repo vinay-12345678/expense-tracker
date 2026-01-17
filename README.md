@@ -234,25 +234,6 @@ cd android && ./gradlew clean && cd ..
 cd ios && xcodebuild clean && cd ..
 ```
 
-## 📱 Screenshots & Demo
-
-The app features:
-- Clean, modern Material Design-inspired UI
-- Smooth animations and transitions
-- Intuitive gesture controls
-- Responsive layout
-
-## 🔮 Future Enhancements
-
-- [ ] Charts and graphs for expense visualization
-- [ ] Date range filtering
-- [ ] Export transactions to CSV
-- [ ] Budget setting and alerts
-- [ ] Recurring transactions
-- [ ] Multi-currency support
-- [ ] Cloud sync
-- [ ] Dark mode toggle
-
 ## 📄 License
 
 MIT License - feel free to use this project for learning or production.
