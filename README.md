@@ -56,7 +56,7 @@ src/
 
 1. **Navigate to project directory**:
    ```bash
-   cd "/Users/vinaybansal/Documents/personal/super money/ExpenseTracker"
+   cd "/Users/vinaybansal/Documents/personal/ExpenseTracker"
    ```
 
 2. **Dependencies are already installed**, but if you need to reinstall:
@@ -94,7 +94,7 @@ cd ..
 **Option 2**: Move the project to a path without spaces
 ```bash
 # Move to a simpler path
-mv "/Users/vinaybansal/Documents/personal/super money/ExpenseTracker" ~/ExpenseTracker
+mv "/Users/vinaybansal/Documents/personal/ExpenseTracker" ~/ExpenseTracker
 cd ~/ExpenseTracker
 cd ios && pod install && cd ..
 ```
